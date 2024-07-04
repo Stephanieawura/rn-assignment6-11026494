@@ -10,7 +10,11 @@ The app also leverages AsyncStorage to persist cart data locally on the device, 
 
 # Screenshots
 HomeScreen:
-![HomeScreen]
+![HomeScreen]![image](https://github.com/Stephanieawura/rn-assignment6-11026494/assets/169616558/27c65170-c4bf-45d3-b5bc-432bef35d985)![image](https://github.com/Stephanieawura/rn-assignment6-11026494/assets/169616558/e622ae4d-814f-4098-84a3-ae65b133f2f3)
+
+
 CartScreen:
-![Cart]
+![Cart]![image](https://github.com/Stephanieawura/rn-assignment6-11026494/assets/169616558/36bd637d-adbf-47d6-83b3-52c42dbf87ac)![image](https://github.com/Stephanieawura/rn-assignment6-11026494/assets/169616558/f1fc028a-56e9-4f9a-931d-21fd606be31e)
+
+
 
